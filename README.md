@@ -1,1 +1,1 @@
-Moved to https://github.com/santi-h/rollbar_helper
+Moved to https://github.com/bodyshopbidsdotcom/rollbar_helper
